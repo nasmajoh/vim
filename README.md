@@ -2,7 +2,7 @@
 
 Installation:
 
-    git clone git://github.com/nelstrom/dotvim.git ~/.vim
+    git clone git://github.com/nasmajoh/vim.git ~/.vim
 
 Create symlinks:
 
