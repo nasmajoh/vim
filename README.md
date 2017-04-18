@@ -14,3 +14,8 @@ Switch to the `~/.vim` directory, and fetch submodules:
     cd ~/.vim
     git submodule init
     git submodule update
+    
+Add new plugins:
+
+    git submodule add https://github.com/xxxx ~/.vim/bundle/xxx
+   
