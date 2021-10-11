@@ -11,6 +11,9 @@ if has('gui_running')
     endtry
 
     set lines=60 columns=108 linespace=0
+    " disable toolbar
+    set guioptions -=T
+
     if has('gui_win32')
         set guifont=Consolas:h10:cANSI
     else
@@ -24,8 +27,6 @@ set nowrap
 " set leader key
 let mapleader=','
 
-" disable toolbar
-set guioptions -=T 
 " Show line, column number, and relative position within a file in the status line
 set ruler
 

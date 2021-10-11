@@ -37,3 +37,6 @@
 [submodule "bundle/easymotion"]
 	path = bundle/easymotion
 	url = https://github.com/easymotion/vim-easymotion.git
+[submodule "/home/nasmajoh/.vim/bundle/vim-ripgrep"]
+	path = /home/nasmajoh/.vim/bundle/vim-ripgrep
+	url = https://github.com/jremmen/vim-ripgrep
